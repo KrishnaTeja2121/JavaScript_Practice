@@ -7,12 +7,12 @@ let result=document.getElementById("result");
 
 // performing
 
-let sum=parseFloat(num1) + parseFloat(num2);
+let sum=parseInt(num1) + parseInt(num2);
 console.log(sum);
 
 
 
 //add event
 addBtn.addEventListener(onclick, function (){
-    result.innerHTML(sum);
+    result.outerHTML(result)
 })
