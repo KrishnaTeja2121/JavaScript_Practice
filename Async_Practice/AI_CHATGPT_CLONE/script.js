@@ -1,7 +1,4 @@
-//api key= AIzaSyB3EK-rUJZED6XGAEkgFWEm33xPzsrTmHc
 
-//URL= curl "https://generativelanguage.googleapis.com/v1beta/models/
-// gemini-1.5-flash:generateContent?key=AIzaSyB3EK-rUJZED6XGAEkgFWEm33xPzsrTmHc" \
 
 
 document.addEventListener("DOMContentLoaded", ()=>{
